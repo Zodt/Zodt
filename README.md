@@ -8,7 +8,7 @@
 <div align="center">
 
 ![Jetbrains Rider](./Assets/JetbrainsRider.svg)
-![Visual Studio](./Assets/VisualStudio.svg)
+![Visual Studio](./Assets/VisualStudioCode.svg)
 ![Visual Studio Code](./Assets/VisualStudioCode.svg)
 ![Azure Data Studio](./Assets/AzureDataStudio.svg)
 
