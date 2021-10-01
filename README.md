@@ -1,16 +1,13 @@
-## <div align="center">Hi 👋, I'm Roman, a full-time backend developer</div>
-<br/>  
-
 ## My Skill Set
 <table><tr><td valign="top" width="25%">
 
 ### Software
 <div align="center">
 
-![Jetbrains Rider](./Assets/JetbrainsRider.svg)
-![Visual Studio](./Assets/VisualStudio.svg)
-![Visual Studio Code](./Assets/VisualStudioCode.svg)
-![Azure Data Studio](./Assets/AzureDataStudio.svg)
+![Jetbrains Rider](./Assets/SoftwareBudgets/JetbrainsRider.svg)
+![Visual Studio](./Assets/SoftwareBudgets/VisualStudio.svg)
+![Visual Studio Code](./Assets/SoftwareBudgets/VisualStudioCode.svg)
+![Azure Data Studio](./Assets/SoftwareBudgets/AzureDataStudio.svg)
 
 </div></td><td valign="top" width="25%">
 
@@ -71,6 +68,6 @@
 
 ## Github Stats
 <div align="center">
-     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zodt&hide=html" alt="zodt" />
-     <img align="center" src="https://github-readme-stats.vercel.app/api?username=Zodt&count_private=true&show_icons=true&theme=radical" alt="zodt" /> 
+     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zodt&hide=html" alt="zodt" /> <br/> 
+     <img align="center" src="https://github-readme-stats.vercel.app/api?username=Zodt&count_private=true&show_icons=true" alt="zodt" /> 
 </div>  
