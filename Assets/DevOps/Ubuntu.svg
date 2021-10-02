@@ -1,0 +1,58 @@
+<svg id="Слой_1" data-name="Слой 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="126.62" height="129" viewBox="0 0 126.62 129">
+  <defs>
+    <linearGradient id="Безымянный_градиент_32" data-name="Безымянный градиент 32" x1="321.69" y1="-223.98" x2="-4.53" y2="140.24" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="0.45" stop-color="#8c8c8c"/>
+      <stop offset="0.47" stop-color="#828282"/>
+      <stop offset="0.55" stop-color="#5a5a5a"/>
+      <stop offset="0.63" stop-color="#3a3a3a"/>
+      <stop offset="0.72" stop-color="#202020"/>
+      <stop offset="0.8" stop-color="#0e0e0e"/>
+      <stop offset="0.9" stop-color="#030303"/>
+      <stop offset="1"/>
+    </linearGradient>
+    <linearGradient id="Безымянный_градиент_86" data-name="Безымянный градиент 86" x1="287.05" y1="-370.08" x2="134.75" y2="-199.42" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#dd4814"/>
+      <stop offset="0.02" stop-color="#dd4814"/>
+      <stop offset="0.2" stop-color="#dd4814"/>
+      <stop offset="0.45" stop-color="#dd4814"/>
+      <stop offset="0.67" stop-color="#dd4814"/>
+      <stop offset="1" stop-color="#dd4814"/>
+    </linearGradient>
+    <linearGradient id="Безымянный_градиент_14" data-name="Безымянный градиент 14" x1="285.34" y1="-362.79" x2="168.14" y2="-242.19" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-opacity="0"/>
+      <stop offset="1"/>
+    </linearGradient>
+    <linearGradient id="Безымянный_градиент_59" data-name="Безымянный градиент 59" x1="288.58" y1="-366.54" x2="163.84" y2="-237.35" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#999"/>
+      <stop offset="0.09" stop-color="#959595"/>
+      <stop offset="0.17" stop-color="#8a8a8a"/>
+      <stop offset="0.24" stop-color="#777"/>
+      <stop offset="0.32" stop-color="#5c5c5c"/>
+      <stop offset="0.4" stop-color="#3a3a3a"/>
+      <stop offset="0.47" stop-color="#101010"/>
+      <stop offset="0.5"/>
+    </linearGradient>
+    <linearGradient id="Безымянный_градиент_48" data-name="Безымянный градиент 48" x1="288.75" y1="-365.91" x2="165.05" y2="-239.39" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#999"/>
+      <stop offset="0.12" stop-color="#717171"/>
+      <stop offset="0.28" stop-color="#414141"/>
+      <stop offset="0.42" stop-color="#1d1d1d"/>
+      <stop offset="0.53" stop-color="#080808"/>
+      <stop offset="0.6"/>
+    </linearGradient>
+  </defs>
+  <g id="Badget">
+    <rect id="IconBackgroundMesh" width="126.62" height="129" rx="25.43" fill="url(#Безымянный_градиент_32)"/>
+    <g id="IconBackgroundMesh-2" data-name="IconBackgroundMesh" opacity="0.4">
+      <path d="M188.91-366a24.64,24.64,0,0,0-24.62,24.65v77.91a24.64,24.64,0,0,0,24.62,24.65h75.47A24.64,24.64,0,0,0,289-263.44v-77.91A24.64,24.64,0,0,0,264.38-366Z" transform="translate(-163.34 366.9)" fill="url(#Безымянный_градиент_86)"/>
+    </g>
+    <path id="IconBackgroundMesh-3" data-name="IconBackgroundMesh" d="M188.91-366a24.64,24.64,0,0,0-24.62,24.65v77.91a24.64,24.64,0,0,0,24.62,24.65h75.47A24.64,24.64,0,0,0,289-263.44v-77.91A24.64,24.64,0,0,0,264.38-366Z" transform="translate(-163.34 366.9)" fill="url(#Безымянный_градиент_14)"/>
+    <path id="IconBackgroundMesh-4" data-name="IconBackgroundMesh" d="M264.53-365.9A24.46,24.46,0,0,1,289-341.47v78.15a24.45,24.45,0,0,1-24.43,24.42H188.76a24.44,24.44,0,0,1-24.42-24.42v-78.15a24.45,24.45,0,0,1,24.42-24.43h75.77m0-1H188.76a25.43,25.43,0,0,0-25.42,25.43v78.15a25.42,25.42,0,0,0,25.42,25.42h75.77A25.43,25.43,0,0,0,290-263.32v-78.15a25.44,25.44,0,0,0-25.43-25.43Z" transform="translate(-163.34 366.9)" fill="url(#Безымянный_градиент_59)"/>
+    <path id="IconBackgroundMesh-5" data-name="IconBackgroundMesh" d="M264.38-365A23.66,23.66,0,0,1,288-341.35v77.91a23.66,23.66,0,0,1-23.62,23.65H188.91a23.66,23.66,0,0,1-23.62-23.65v-77.91A23.66,23.66,0,0,1,188.91-365h75.47m0-1H188.91a24.64,24.64,0,0,0-24.62,24.65v77.91a24.64,24.64,0,0,0,24.62,24.65h75.47A24.64,24.64,0,0,0,289-263.44v-77.91A24.64,24.64,0,0,0,264.38-366Z" transform="translate(-163.34 366.9)" fill="url(#Безымянный_градиент_48)"/>
+  </g>
+  <g id="Ubuntu">
+    <path d="M263-302.39a36.3,36.3,0,0,1-36.3,36.3,36.3,36.3,0,0,1-36.31-36.3,36.3,36.3,0,0,1,36.31-36.31A36.3,36.3,0,0,1,263-302.39Z" transform="translate(-163.34 366.9)" fill="#dd4814" opacity="0.5"/>
+    <path d="M202-307.24a4.85,4.85,0,0,0-4.85,4.85,4.85,4.85,0,0,0,4.85,4.84,4.85,4.85,0,0,0,4.85-4.84,4.85,4.85,0,0,0-4.85-4.85Zm34.61,22a4.84,4.84,0,0,0-1.78,6.62,4.84,4.84,0,0,0,6.62,1.77,4.84,4.84,0,0,0,1.78-6.62,4.84,4.84,0,0,0-6.62-1.77Zm-24.08-17.18a14.15,14.15,0,0,1,6-11.59L215-319.91a21.05,21.05,0,0,0-8.7,12.24,6.77,6.77,0,0,1,2.51,5.28,6.78,6.78,0,0,1-2.51,5.27,21.11,21.11,0,0,0,8.7,12.25l3.55-5.94a14.13,14.13,0,0,1-6-11.58Zm14.16-14.16a14.16,14.16,0,0,1,14.1,12.9l6.91-.1a21,21,0,0,0-6.26-13.66,6.78,6.78,0,0,1-5.81-.47,6.78,6.78,0,0,1-3.32-4.81,21.29,21.29,0,0,0-5.62-.76,20.91,20.91,0,0,0-9.34,2.18l3.37,6a14.17,14.17,0,0,1,6-1.31Zm0,28.31a14.17,14.17,0,0,1-6-1.31l-3.37,6a20.94,20.94,0,0,0,9.34,2.18,21.24,21.24,0,0,0,5.62-.76,6.8,6.8,0,0,1,3.32-4.81,6.78,6.78,0,0,1,5.81-.47A21,21,0,0,0,247.66-301l-6.91-.1a14.16,14.16,0,0,1-14.1,12.9Zm9.92-31.34a4.84,4.84,0,0,0,6.62-1.77,4.85,4.85,0,0,0-1.78-6.62,4.84,4.84,0,0,0-6.62,1.77,4.84,4.84,0,0,0,1.78,6.62Z" transform="translate(-163.34 366.9)" fill="#fff"/>
+  </g>
+</svg>

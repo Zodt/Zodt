@@ -1,0 +1,67 @@
+<svg id="Слой_1" data-name="Слой 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="126.62" height="129" viewBox="0 0 126.62 129">
+  <defs>
+    <linearGradient id="Безымянный_градиент_32" data-name="Безымянный градиент 32" x1="321.69" y1="-223.98" x2="-4.53" y2="140.24" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="0.45" stop-color="#8c8c8c"/>
+      <stop offset="0.47" stop-color="#828282"/>
+      <stop offset="0.55" stop-color="#5a5a5a"/>
+      <stop offset="0.63" stop-color="#3a3a3a"/>
+      <stop offset="0.72" stop-color="#202020"/>
+      <stop offset="0.8" stop-color="#0e0e0e"/>
+      <stop offset="0.9" stop-color="#030303"/>
+      <stop offset="1"/>
+    </linearGradient>
+    <linearGradient id="Безымянный_градиент_75" data-name="Безымянный градиент 75" x1="287.05" y1="-370.08" x2="134.75" y2="-199.42" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#68217a"/>
+      <stop offset="0" stop-color="#6a237b"/>
+      <stop offset="0.04" stop-color="#803687"/>
+      <stop offset="0.08" stop-color="#8f448f"/>
+      <stop offset="0.13" stop-color="#984c94"/>
+      <stop offset="0.2" stop-color="#9b4f96"/>
+      <stop offset="0.45" stop-color="#969"/>
+      <stop offset="0.55" stop-color="#754f63"/>
+      <stop offset="0.63" stop-color="#593e3a"/>
+      <stop offset="0.67" stop-color="#4f382b"/>
+      <stop offset="1" stop-color="#50382b"/>
+    </linearGradient>
+    <linearGradient id="Безымянный_градиент_14" data-name="Безымянный градиент 14" x1="285.34" y1="-362.79" x2="168.14" y2="-242.19" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-opacity="0"/>
+      <stop offset="1"/>
+    </linearGradient>
+    <linearGradient id="Безымянный_градиент_59" data-name="Безымянный градиент 59" x1="288.58" y1="-366.54" x2="163.84" y2="-237.35" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#999"/>
+      <stop offset="0.09" stop-color="#959595"/>
+      <stop offset="0.17" stop-color="#8a8a8a"/>
+      <stop offset="0.24" stop-color="#777"/>
+      <stop offset="0.32" stop-color="#5c5c5c"/>
+      <stop offset="0.4" stop-color="#3a3a3a"/>
+      <stop offset="0.47" stop-color="#101010"/>
+      <stop offset="0.5"/>
+    </linearGradient>
+    <linearGradient id="Безымянный_градиент_48" data-name="Безымянный градиент 48" x1="288.75" y1="-365.91" x2="165.05" y2="-239.39" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#999"/>
+      <stop offset="0.12" stop-color="#717171"/>
+      <stop offset="0.28" stop-color="#414141"/>
+      <stop offset="0.42" stop-color="#1d1d1d"/>
+      <stop offset="0.53" stop-color="#080808"/>
+      <stop offset="0.6"/>
+    </linearGradient>
+  </defs>
+  <g id="Badget">
+    <rect id="IconBackgroundMesh" width="126.62" height="129" rx="25.43" fill="url(#Безымянный_градиент_32)"/>
+    <g id="IconBackgroundMesh-2" data-name="IconBackgroundMesh" opacity="0.4">
+      <path d="M188.91-366a24.64,24.64,0,0,0-24.62,24.65v77.91a24.64,24.64,0,0,0,24.62,24.65h75.47A24.64,24.64,0,0,0,289-263.44v-77.91A24.64,24.64,0,0,0,264.38-366Z" transform="translate(-163.34 366.9)" fill="url(#Безымянный_градиент_75)"/>
+    </g>
+    <path id="IconBackgroundMesh-3" data-name="IconBackgroundMesh" d="M188.91-366a24.64,24.64,0,0,0-24.62,24.65v77.91a24.64,24.64,0,0,0,24.62,24.65h75.47A24.64,24.64,0,0,0,289-263.44v-77.91A24.64,24.64,0,0,0,264.38-366Z" transform="translate(-163.34 366.9)" fill="url(#Безымянный_градиент_14)"/>
+    <path id="IconBackgroundMesh-4" data-name="IconBackgroundMesh" d="M264.53-365.9A24.46,24.46,0,0,1,289-341.47v78.15a24.45,24.45,0,0,1-24.43,24.42H188.76a24.44,24.44,0,0,1-24.42-24.42v-78.15a24.45,24.45,0,0,1,24.42-24.43h75.77m0-1H188.76a25.43,25.43,0,0,0-25.42,25.43v78.15a25.42,25.42,0,0,0,25.42,25.42h75.77A25.43,25.43,0,0,0,290-263.32v-78.15a25.44,25.44,0,0,0-25.43-25.43Z" transform="translate(-163.34 366.9)" fill="url(#Безымянный_градиент_59)"/>
+    <path id="IconBackgroundMesh-5" data-name="IconBackgroundMesh" d="M264.38-365A23.66,23.66,0,0,1,288-341.35v77.91a23.66,23.66,0,0,1-23.62,23.65H188.91a23.66,23.66,0,0,1-23.62-23.65v-77.91A23.66,23.66,0,0,1,188.91-365h75.47m0-1H188.91a24.64,24.64,0,0,0-24.62,24.65v77.91a24.64,24.64,0,0,0,24.62,24.65h75.47A24.64,24.64,0,0,0,289-263.44v-77.91A24.64,24.64,0,0,0,264.38-366Z" transform="translate(-163.34 366.9)" fill="url(#Безымянный_градиент_48)"/>
+  </g>
+  <g id="CSharp">
+    <path d="M224.11-342.32l-30.45,17.77a5,5,0,0,0-2.54,4.38v35.63a5.08,5.08,0,0,0,2.54,4.39l30.45,17.68a5,5,0,0,0,5.07,0l30.46-17.77a5.06,5.06,0,0,0,2.53-4.38v-35.81a5.06,5.06,0,0,0-2.53-4.38l-30.46-17.51A5,5,0,0,0,224.11-342.32Z" transform="translate(-163.34 366.9)" fill="#f2c811" opacity="0.24"/>
+    <path d="M261.71-322.53,191.8-282a5.16,5.16,0,0,1-.68-2.54v-35.63a5,5,0,0,1,2.54-4.38l30.46-17.77a5,5,0,0,1,5.06,0l30.46,17.51A5.07,5.07,0,0,1,261.71-322.53Z" transform="translate(-163.34 366.9)" fill="#9b4f96"/>
+    <path d="M262.17-320.43v35.81a5.06,5.06,0,0,1-2.53,4.38l-30.46,17.77a5,5,0,0,1-5.06,0l-30.46-17.68A5.08,5.08,0,0,1,191.8-282l69.91-40.53A5,5,0,0,1,262.17-320.43Z" transform="translate(-163.34 366.9)" fill="#f2c811" opacity="0.24"/>
+    <path d="M262.17-320.43v35.81a5.06,5.06,0,0,1-2.53,4.38l-30.46,17.77a5,5,0,0,1-5.06,0l-30.46-17.68A5.08,5.08,0,0,1,191.8-282l69.91-40.53A5,5,0,0,1,262.17-320.43Z" transform="translate(-163.34 366.9)" fill="#68217a"/>
+    <path d="M249.36-289.72a26,26,0,0,1-22.74,13.31,26,26,0,0,1-22.43-12.77,26,26,0,0,1-3.64-13.3,25.9,25.9,0,0,1,3.7-13.39,26,26,0,0,1,22.37-12.68,26.06,26.06,0,0,1,22.69,13.21l-8.85,5.13h0a15.83,15.83,0,0,0-13.84-8.12,15.84,15.84,0,0,0-13.53,7.59,15.77,15.77,0,0,0-2.32,8.26,15.77,15.77,0,0,0,2.27,8.17,15.84,15.84,0,0,0,13.58,7.68,15.85,15.85,0,0,0,13.9-8.22Z" transform="translate(-163.34 366.9)" fill="#fff"/>
+    <path d="M246.23-294.37l1.27-3.83h-1.77l.37-2.25h2.16l1.43-4.27h-2.23l.37-2.25h2.62l1.27-3.82h2.37L252.81-307h2.82l1.27-3.82h2.37L258-306.94h1.78l-.37,2.25h-2.16l-1.44,4.28H258l-.37,2.25-2.61,0-1.28,3.83h-2.36l1.27-3.82-2.81,0-1.28,3.83Zm4.39-6.07,2.82,0,1.43-4.28h-2.81Z" transform="translate(-163.34 366.9)" fill="#fff"/>
+  </g>
+</svg>

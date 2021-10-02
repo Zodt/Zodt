@@ -33,22 +33,26 @@
             </div>
         </td>
         <td width="25%">
-           <div align="center">
-                <img style="margin: 10px;height: 50px;" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />  
-                <img style="margin: 10px;height: 50px;" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
-                <img style="margin: 10px;height: 50px;" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
-                <img style="margin: 10px;height: 50px;" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />   
-                <img style="margin: 10px;height: 50px;" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" />  
+            <div align="center">
+                <!-- Databases -->
+                <div align="center">
+                    <img style="margin: 10px;height: 50px;" src="./Assets/Databases/MSSQL.svg" alt="Microsoft SQL Server"/>
+                    <img style="margin: 10px;height: 50px;" src="./Assets/Databases/MongoDb.svg" alt="MongoDb"/> 
+                </div>
+                <!-- Programming languages -->
+                <div align="center">
+                    <img style="margin: 10px;height: 50px;" src="./Assets/ProgrammingLanguages/CSharp.svg" alt="C#"/> 
+                    <img style="margin: 10px;height: 50px;" src="./Assets/ProgrammingLanguages/Python.svg" alt="Python"/>
+                </div>
                 <img style="margin: 10px;height: 50px;" src="https://profilinator.rishav.dev/skills-assets/dotnetcore.png" alt=".Net Core" height="50" />  
-                <img style="margin: 10px;height: 50px;" src="https://profilinator.rishav.dev/skills-assets/dot-net-original-wordmark.svg" alt=".NET" height="50" />  
-                <img style="margin: 10px;height: 50px;" src="https://profilinator.rishav.dev/skills-assets/powerbi.png" alt="Power Bi" height="50" />  
             </div>
         </td>
         <td width="25%">
             <div align="center">
-                <img style="margin: 10px;" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
-                <img style="margin: 10px;" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
-                <img style="margin: 10px;" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />  
+                <img style="margin: 10px;" src="./Assets/DevOps/Git.svg" alt="Git" height="50" />  
+                <img style="margin: 10px;" src="./Assets/DevOps/GitHubActions.svg" alt="GitHub Actions" height="50" />  
+                <img style="margin: 10px;" src="./Assets/DevOps/Ubuntu.svg" alt="Ubuntu" height="50" />  
+                <img style="margin: 10px;" src="./Assets/DevOps/Bash.svg" alt="Bash" height="50" />  
             </div>
         </td>
     </tr>
