@@ -28,8 +28,8 @@
         </td>
         <td width="25%">
             <div align="center">
-                <img style="margin: 10px;height: 50px;" src="./Assets/Frontend/HTML5.svg" alt="HTML5" height="50" />  
-                <img style="margin: 10px;height: 50px;" src="./Assets/Frontend/XAML.svg" alt="XAML" height="50" />  
+                <img style="margin: 10px;height: 50px;" src="./Assets/Frontend/HTML5.svg" alt="HTML5" />  
+                <img style="margin: 10px;height: 50px;" src="./Assets/Frontend/XAML.svg" alt="XAML" />  
             </div>
         </td>
         <td width="25%">
@@ -45,16 +45,16 @@
                     <img style="margin: 10px;height: 50px;" src="./Assets/ProgrammingLanguages/Python.svg" alt="Python"/>
                 </div>
                 <!-- Frameworks -->
-                <img style="margin: 10px;height: 50px;" src="./Assets/Backend/DotNETCore.svg" alt=".Net Core" height="50" />  
-                <img style="margin: 10px;height: 50px;" src="./Assets/Backend/EntityFrameworkCore.svg" alt="EntityFrameworkCore" height="50" />  
+                <img style="margin: 10px;height: 50px;" src="./Assets/Backend/DotNETCore.svg" alt=".Net Core" />  
+                <img style="margin: 10px;height: 50px;" src="./Assets/Backend/EntityFrameworkCore.svg" alt="EntityFrameworkCore" />  
             </div>
         </td>
         <td width="25%">
             <div align="center">
-                <img style="margin: 10px;" src="./Assets/DevOps/Git.svg" alt="Git" height="50" />  
-                <img style="margin: 10px;" src="./Assets/DevOps/GitHubActions.svg" alt="GitHub Actions" height="50" />  
-                <img style="margin: 10px;" src="./Assets/DevOps/Ubuntu.svg" alt="Ubuntu" height="50" />  
-                <img style="margin: 10px;" src="./Assets/DevOps/Bash.svg" alt="Bash" height="50" />  
+                <img style="margin: 10px;" src="./Assets/DevOps/Git.svg" alt="Git" />  
+                <img style="margin: 10px;" src="./Assets/DevOps/GitHubActions.svg" alt="GitHub Actions" />  
+                <img style="margin: 10px;" src="./Assets/DevOps/Ubuntu.svg" alt="Ubuntu" />  
+                <img style="margin: 10px;" src="./Assets/DevOps/Bash.svg" alt="Bash" />  
             </div>
         </td>
     </tr>
