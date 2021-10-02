@@ -1,4 +1,4 @@
-##My Skill Set
+<h2>My Skill Set</h2>
 <table>
     <tr>
         <td>
@@ -60,7 +60,7 @@
     </tr>
 </table>  
 
-##Connect with me
+<h2>Connect with me</h2>
 <div align="center">
     <a href="https://github.com/zodt" target="_blank">
         <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -75,8 +75,7 @@
         <img src=https://img.shields.io/badge/behance-%23191919.svg?&style=for-the-badge&logo=behance&logoColor=white alt=behance style="margin-bottom: 5px;" />
     </a>
 </div>
-
-##Github Stats
+<h2>Github Stats</h2>
 <div align="center">
     <a href="https://github.com/zodt">
       <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zodt&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34"  alt="zodt"/>
