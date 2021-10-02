@@ -1,4 +1,4 @@
-<h2 style="font-family:'JetBrains Mono ExtraBold',system-ui">My Skill Set</h2>
+##My Skill Set
 <table>
     <tr>
         <td>
@@ -59,8 +59,9 @@
         </td>
     </tr>
 </table>  
-<h2 style="font-family:'JetBrains Mono ExtraBold',system-ui">Connect with me</h2>
-<div style="text-align: center;margin: 5% 5% 0 0;">
+
+##Connect with me
+<div align="center">
     <a href="https://github.com/zodt" target="_blank">
         <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
     </a>
@@ -74,13 +75,13 @@
         <img src=https://img.shields.io/badge/behance-%23191919.svg?&style=for-the-badge&logo=behance&logoColor=white alt=behance style="margin-bottom: 5px;" />
     </a>
 </div>
-<h2 style="font-family:'JetBrains Mono ExtraBold',system-ui">Github Stats</h2>
-<div style="text-align: center;">
-    <a href="https://github.com/zodt">
-      <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zodt&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34"  alt="zodt"/>
-    </a>
-    <a href="https://github.com/zodt">
-      <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=zodt&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Braydon's GitHub Stats" />
-    </a>
 
+##Github Stats
+<div align="center">
+    <a href="https://github.com/zodt">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zodt&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34"  alt="zodt"/>
+    </a>
+    <a href="https://github.com/zodt">
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=zodt&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Braydon's GitHub Stats" />
+    </a>
 </div>  
