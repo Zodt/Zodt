@@ -44,7 +44,9 @@
                     <img style="margin: 10px;height: 50px;" src="./Assets/ProgrammingLanguages/CSharp.svg" alt="C#"/> 
                     <img style="margin: 10px;height: 50px;" src="./Assets/ProgrammingLanguages/Python.svg" alt="Python"/>
                 </div>
-                <img style="margin: 10px;height: 50px;" src="https://profilinator.rishav.dev/skills-assets/dotnetcore.png" alt=".Net Core" height="50" />  
+                <!-- Frameworks -->
+                <img style="margin: 10px;height: 50px;" src="./Assets/Backend/DotNETCore.svg" alt=".Net Core" height="50" />  
+                <img style="margin: 10px;height: 50px;" src="./Assets/Backend/EntityFrameworkCore.svg" alt="EntityFrameworkCore" height="50" />  
             </div>
         </td>
         <td width="25%">
