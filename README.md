@@ -2,16 +2,16 @@
 <table>
     <tr>
         <td>
-            <h3 align="center" style="text-align: center;font-family:'JetBrains Mono ExtraBold',system-ui">Software</h3> 
+            <h3 align="center">Software</h3>
         </td>
         <td>
-            <h3 align="center" style="text-align: center;font-family:'JetBrains Mono ExtraBold',system-ui">Frontend</h3>
+            <h3 align="center">Frontend</h3>
         </td>
         <td>
-            <h3 align="center" style="text-align: center;font-family:'JetBrains Mono ExtraBold',system-ui">Backend</h3> 
+            <h3 align="center">Backend</h3>
         </td>
         <td>
-            <h3 align="center" style="text-align: center;font-family:'JetBrains Mono ExtraBold',system-ui">DevOps</h3> 
+            <h3 align="center">DevOps</h3>
         </td>
     </tr>
     <tr>
@@ -51,10 +51,10 @@
         </td>
         <td width="25%">
             <div align="center">
-                <img style="margin: 10px;" src="./Assets/DevOps/Git.svg" alt="Git" />  
-                <img style="margin: 10px;" src="./Assets/DevOps/GitHubActions.svg" alt="GitHub Actions" />  
-                <img style="margin: 10px;" src="./Assets/DevOps/Ubuntu.svg" alt="Ubuntu" />  
-                <img style="margin: 10px;" src="./Assets/DevOps/Bash.svg" alt="Bash" />  
+                <img style="margin: 10px;height: 50px;" src="./Assets/DevOps/Git.svg" alt="Git" />  
+                <img style="margin: 10px;height: 50px;" src="./Assets/DevOps/GitHubActions.svg" alt="GitHub Actions" />  
+                <img style="margin: 10px;height: 50px;" src="./Assets/DevOps/Ubuntu.svg" alt="Ubuntu" />  
+                <img style="margin: 10px;height: 50px;" src="./Assets/DevOps/Bash.svg" alt="Bash" />  
             </div>
         </td>
     </tr>
