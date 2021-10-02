@@ -1,42 +1,51 @@
 <h2 style="font-family:'JetBrains Mono ExtraBold',system-ui">My Skill Set</h2>
 <table>
     <tr>
-        <td style="vertical-align: top; width: 25%;">
-            <h3 style="text-align: center;font-family:'JetBrains Mono ExtraBold',system-ui">Software</h3>
-            <div style="text-align: center;margin: 5%;">
-                <img src="./Assets/SoftwareBudgets/IDE/JetbrainsRider.svg" alt="Jetbrains Rider"/>
-                <img src="./Assets/SoftwareBudgets/IDE/VisualStudio.svg" alt="Visual Studio"/>
-                <img src="./Assets/SoftwareBudgets/IDE/VisualStudioCode.svg" alt="Visual Studio Code"/>
-                <img src="./Assets/SoftwareBudgets/IDE/JetbrainsPyCharm.svg" alt="Jetbrains PyCharm"/>
-                <img src="./Assets/SoftwareBudgets/IDE/AzureDataStudio.svg" alt="Azure Data Studio"/>
-                <img src="./Assets/SoftwareBudgets/Art/Illustrator.svg" alt="Adobe Illustrator"/>
-                <img src="./Assets/SoftwareBudgets/Art/Photoshop.svg" alt="Adobe Photoshop"/>
+        <td>
+            <h3 style="text-align: center;font-family:'JetBrains Mono ExtraBold',system-ui">Software</h3> 
+        </td>
+        <td>
+            <h3 style="text-align: center;font-family:'JetBrains Mono ExtraBold',system-ui">Frontend</h3>
+        </td>
+        <td>
+            <h3 style="text-align: center;font-family:'JetBrains Mono ExtraBold',system-ui">Backend</h3> 
+        </td>
+        <td>
+            <h3 style="text-align: center;font-family:'JetBrains Mono ExtraBold',system-ui">DevOps</h3> 
+        </td>
+    </tr>
+    <tr>
+        <td width="25%">
+            <div align="center">
+                <img style="margin: 10px;height: 50px;" src="./Assets/SoftwareBudgets/IDE/JetbrainsRider.svg" alt="Jetbrains Rider"/>
+                <img style="margin: 10px;height: 50px;" src="./Assets/SoftwareBudgets/IDE/VisualStudio.svg" alt="Visual Studio"/>
+                <img style="margin: 10px;height: 50px;" src="./Assets/SoftwareBudgets/IDE/VisualStudioCode.svg" alt="Visual Studio Code"/>
+                <img style="margin: 10px;height: 50px;" src="./Assets/SoftwareBudgets/IDE/JetbrainsPyCharm.svg" alt="Jetbrains PyCharm"/>
+                <img style="margin: 10px;height: 50px;" src="./Assets/SoftwareBudgets/IDE/AzureDataStudio.svg" alt="Azure Data Studio"/>
+                <img style="margin: 10px;height: 50px;" src="./Assets/SoftwareBudgets/Art/Illustrator.svg" alt="Adobe Illustrator"/>
+                <img style="margin: 10px;height: 50px;" src="./Assets/SoftwareBudgets/Art/Photoshop.svg" alt="Adobe Photoshop"/>
             </div>
         </td>
-        <td style="text-align: center;vertical-align: top; width: 25%;">
-            <h3 style="font-family:'JetBrains Mono ExtraBold',system-ui">Frontend</h3>
-            <div style="text-align: center;align-items: center;margin: 5%;">  
-                <img style="margin: 10px;" src="./Assets/Frontend/HTML5.svg" alt="HTML5" height="50" />  
-                <img style="margin: 10px;" src="./Assets/Frontend/XAML.svg" alt="XAML" height="50" />  
-                <img style="margin: 10px;" src="https://profilinator.rishav.dev/skills-assets/adobexd.png" alt="Adobe XD" height="50" />  
+        <td width="25%">
+            <div align="center">
+                <img style="margin: 10px;height: 50px;" src="./Assets/Frontend/HTML5.svg" alt="HTML5" height="50" />  
+                <img style="margin: 10px;height: 50px;" src="./Assets/Frontend/XAML.svg" alt="XAML" height="50" />  
             </div>
         </td>
-        <td style="vertical-align: top; width: 25%;">
-            <h3 style="text-align: center;font-family:'JetBrains Mono ExtraBold',system-ui">Backend</h3>
-            <div style="text-align: center;margin: 5%;">  
-                <img style="margin: 10px;" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />  
-                <img style="margin: 10px;" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
-                <img style="margin: 10px;" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
-                <img style="margin: 10px;" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />   
-                <img style="margin: 10px;" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" />  
-                <img style="margin: 10px;" src="https://profilinator.rishav.dev/skills-assets/dotnetcore.png" alt=".Net Core" height="50" />  
-                <img style="margin: 10px;" src="https://profilinator.rishav.dev/skills-assets/dot-net-original-wordmark.svg" alt=".NET" height="50" />  
-                <img style="margin: 10px;" src="https://profilinator.rishav.dev/skills-assets/powerbi.png" alt="Power Bi" height="50" />  
+        <td width="25%">
+           <div align="center">
+                <img style="margin: 10px;height: 50px;" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />  
+                <img style="margin: 10px;height: 50px;" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
+                <img style="margin: 10px;height: 50px;" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
+                <img style="margin: 10px;height: 50px;" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />   
+                <img style="margin: 10px;height: 50px;" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" />  
+                <img style="margin: 10px;height: 50px;" src="https://profilinator.rishav.dev/skills-assets/dotnetcore.png" alt=".Net Core" height="50" />  
+                <img style="margin: 10px;height: 50px;" src="https://profilinator.rishav.dev/skills-assets/dot-net-original-wordmark.svg" alt=".NET" height="50" />  
+                <img style="margin: 10px;height: 50px;" src="https://profilinator.rishav.dev/skills-assets/powerbi.png" alt="Power Bi" height="50" />  
             </div>
         </td>
-        <td style="vertical-align: top; width: 25%;">
-            <h3 style="text-align: center;font-family:'JetBrains Mono ExtraBold',system-ui">DevOps</h3>
-            <div style="text-align: center;margin: 5%;">  
+        <td width="25%">
+            <div align="center">
                 <img style="margin: 10px;" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
                 <img style="margin: 10px;" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
                 <img style="margin: 10px;" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />  
@@ -61,6 +70,11 @@
 </div>
 <h2 style="font-family:'JetBrains Mono ExtraBold',system-ui">Github Stats</h2>
 <div style="text-align: center;">
-     <img style="text-align: center;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zodt&hide=html" alt="Zodt" /> <br/> 
-     <img style="text-align: center;" src="https://github-readme-stats.vercel.app/api?username=Zodt&count_private=true&show_icons=true" alt="Zodt" /> 
+    <a href="https://github.com/zodt">
+      <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zodt&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34"  alt="zodt"/>
+    </a>
+    <a href="https://github.com/zodt">
+      <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=zodt&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Braydon's GitHub Stats" />
+    </a>
+
 </div>  
