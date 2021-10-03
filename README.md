@@ -17,13 +17,13 @@
     <tr>
         <td width="25%">
             <div align="center">
-                <img style="margin: 10px;height: 50px;" src="./Assets/SoftwareBudgets/IDE/JetbrainsRider.svg" alt="Jetbrains Rider"/>
-                <img style="margin: 10px;height: 50px;" src="./Assets/SoftwareBudgets/IDE/VisualStudio.svg" alt="Visual Studio"/>
-                <img style="margin: 10px;height: 50px;" src="./Assets/SoftwareBudgets/IDE/VisualStudioCode.svg" alt="Visual Studio Code"/>
-                <img style="margin: 10px;height: 50px;" src="./Assets/SoftwareBudgets/IDE/JetbrainsPyCharm.svg" alt="Jetbrains PyCharm"/>
-                <img style="margin: 10px;height: 50px;" src="./Assets/SoftwareBudgets/IDE/AzureDataStudio.svg" alt="Azure Data Studio"/>
-                <img style="margin: 10px;height: 50px;" src="./Assets/SoftwareBudgets/Art/Illustrator.svg" alt="Adobe Illustrator"/>
-                <img style="margin: 10px;height: 50px;" src="./Assets/SoftwareBudgets/Art/Photoshop.svg" alt="Adobe Photoshop"/>
+                <img style="margin: 10px;height: 50px;" src="./Assets/SoftwareIcons/IDE/JetbrainsRider.svg" alt="Jetbrains Rider"/>
+                <img style="margin: 10px;height: 50px;" src="./Assets/SoftwareIcons/IDE/VisualStudio.svg" alt="Visual Studio"/>
+                <img style="margin: 10px;height: 50px;" src="./Assets/SoftwareIcons/IDE/VisualStudioCode.svg" alt="Visual Studio Code"/>
+                <img style="margin: 10px;height: 50px;" src="./Assets/SoftwareIcons/IDE/JetbrainsPyCharm.svg" alt="Jetbrains PyCharm"/>
+                <img style="margin: 10px;height: 50px;" src="./Assets/SoftwareIcons/IDE/AzureDataStudio.svg" alt="Azure Data Studio"/>
+                <img style="margin: 10px;height: 50px;" src="./Assets/SoftwareIcons/Art/AdobeIllustrator.svg" alt="Adobe Illustrator"/>
+                <img style="margin: 10px;height: 50px;" src="./Assets/SoftwareIcons/Art/AdobePhotoshop.svg" alt="Adobe Photoshop"/>
             </div>
         </td>
         <td width="25%">
