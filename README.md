@@ -22,31 +22,24 @@
                 <img style="margin: 10px;height: 50px;" src="./Assets/SoftwareIcons/IDE/VisualStudioCode.svg" alt="Visual Studio Code"/>
                 <img style="margin: 10px;height: 50px;" src="./Assets/SoftwareIcons/IDE/JetbrainsPyCharm.svg" alt="Jetbrains PyCharm"/>
                 <img style="margin: 10px;height: 50px;" src="./Assets/SoftwareIcons/IDE/AzureDataStudio.svg" alt="Azure Data Studio"/>
-                <img style="margin: 10px;height: 50px;" src="./Assets/SoftwareIcons/Art/AdobeIllustrator.svg" alt="Adobe Illustrator"/>
-                <img style="margin: 10px;height: 50px;" src="./Assets/SoftwareIcons/Art/AdobePhotoshop.svg" alt="Adobe Photoshop"/>
             </div>
         </td>
         <td width="25%">
             <div align="center">
                 <img style="margin: 10px;height: 50px;" src="./Assets/Frontend/HTML5.svg" alt="HTML5" />  
                 <img style="margin: 10px;height: 50px;" src="./Assets/Frontend/XAML.svg" alt="XAML" />  
+                <img style="margin: 10px;height: 50px;" src="./Assets/SoftwareIcons/Art/AdobeIllustrator.svg" alt="Adobe Illustrator"/>
+                <img style="margin: 10px;height: 50px;" src="./Assets/SoftwareIcons/Art/AdobePhotoshop.svg" alt="Adobe Photoshop"/> 
             </div>
         </td>
         <td width="25%">
             <div align="center">
-                <!-- Databases -->
-                <div align="center">
-                    <img style="margin: 10px;height: 50px;" src="./Assets/Databases/MSSQL.svg" alt="Microsoft SQL Server"/>
-                    <img style="margin: 10px;height: 50px;" src="./Assets/Databases/MongoDb.svg" alt="MongoDb"/> 
-                </div>
-                <!-- Programming languages -->
-                <div align="center">
-                    <img style="margin: 10px;height: 50px;" src="./Assets/ProgrammingLanguages/CSharp.svg" alt="C#"/> 
-                    <img style="margin: 10px;height: 50px;" src="./Assets/ProgrammingLanguages/Python.svg" alt="Python"/>
-                </div>
-                <!-- Frameworks -->
+                <img style="margin: 10px;height: 50px;" src="./Assets/ProgrammingLanguages/CSharp.svg" alt="C#"/> 
                 <img style="margin: 10px;height: 50px;" src="./Assets/Backend/DotNETCore.svg" alt=".Net Core" />  
                 <img style="margin: 10px;height: 50px;" src="./Assets/Backend/EntityFrameworkCore.svg" alt="EntityFrameworkCore" />  
+                <img style="margin: 10px;height: 50px;" src="./Assets/Databases/MSSQL.svg" alt="Microsoft SQL Server"/>
+                <img style="margin: 10px;height: 50px;" src="./Assets/Databases/MongoDb.svg" alt="MongoDb"/> 
+                <img style="margin: 10px;height: 50px;" src="./Assets/ProgrammingLanguages/Python.svg" alt="Python"/>
             </div>
         </td>
         <td width="25%">
@@ -59,7 +52,26 @@
         </td>
     </tr>
 </table>  
-
+<h2>Github Stats</h2>
+<div align="center">
+    <a href="https://github.com/zodt">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zodt&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34"  alt="zodt"/>
+    </a>
+    <a href="https://github.com/zodt">
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=zodt
+&show_icons=true
+&line_height=20
+&count_private=true
+&title_color=ffffff
+&text_color=c9cacc
+&icon_color=4AB097
+&bg_color=1A2B34
+&include_all_commits=true
+&show_icons=true
+&show_owner=true" 
+alt="Braydon's GitHub Stats" />
+    </a>
+</div>  
 <h2>Connect with me</h2>
 <div align="center">
     <a href="https://github.com/zodt" target="_blank">
@@ -75,12 +87,3 @@
         <img src=https://img.shields.io/badge/behance-%23191919.svg?&style=for-the-badge&logo=behance&logoColor=white alt=behance style="margin-bottom: 5px;" />
     </a>
 </div>
-<h2>Github Stats</h2>
-<div align="center">
-    <a href="https://github.com/zodt">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zodt&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34"  alt="zodt"/>
-    </a>
-    <a href="https://github.com/zodt">
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=zodt&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Braydon's GitHub Stats" />
-    </a>
-</div>  
