@@ -1,4 +1,4 @@
-<svg id="Слой_1" data-name="Слой 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="126.62" height="129" viewBox="0 0 126.62 129">
+<svg id="Слой_1" data-name="Слой 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="126.84" height="129" viewBox="0 0 126.84 129">
   <defs>
     <linearGradient id="Безымянный_градиент_32" data-name="Безымянный градиент 32" x1="321.69" y1="-223.98" x2="-4.53" y2="140.24" gradientUnits="userSpaceOnUse">
       <stop offset="0" stop-color="#fff"/>
@@ -11,11 +11,18 @@
       <stop offset="0.9" stop-color="#030303"/>
       <stop offset="1"/>
     </linearGradient>
-    <linearGradient id="Безымянный_градиент_114" data-name="Безымянный градиент 114" x1="287.66" y1="-348.82" x2="196.42" y2="-279.4" gradientUnits="userSpaceOnUse">
-      <stop offset="0" stop-color="#5c2d91"/>
-      <stop offset="0.31" stop-color="#5c2d91"/>
-      <stop offset="0.55" stop-color="#5c2d91"/>
-      <stop offset="1" stop-color="#000938"/>
+    <linearGradient id="Безымянный_градиент_2" data-name="Безымянный градиент 2" x1="451.57" y1="869.89" x2="299.27" y2="699.23" gradientTransform="matrix(1, 0, 0, -1, -163.34, 499.9)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#68217a"/>
+      <stop offset="0" stop-color="#6a237b"/>
+      <stop offset="0.04" stop-color="#803687"/>
+      <stop offset="0.08" stop-color="#8f448f"/>
+      <stop offset="0.13" stop-color="#984c94"/>
+      <stop offset="0.2" stop-color="#9b4f96"/>
+      <stop offset="0.45" stop-color="#969"/>
+      <stop offset="0.55" stop-color="#754f63"/>
+      <stop offset="0.63" stop-color="#593e3a"/>
+      <stop offset="0.67" stop-color="#4f382b"/>
+      <stop offset="1" stop-color="#50382b"/>
     </linearGradient>
     <linearGradient id="Безымянный_градиент_14" data-name="Безымянный градиент 14" x1="285.34" y1="-362.79" x2="168.14" y2="-242.19" gradientUnits="userSpaceOnUse">
       <stop offset="0" stop-opacity="0"/>
@@ -42,13 +49,15 @@
   </defs>
   <g id="Badget">
     <rect id="IconBackgroundMesh" width="126.62" height="129" rx="25.43" fill="url(#Безымянный_градиент_32)"/>
-    <path id="IconBackgroundMesh-2" data-name="IconBackgroundMesh" d="M188.91-366a24.64,24.64,0,0,0-24.62,24.65v77.91a24.64,24.64,0,0,0,24.62,24.65h75.47A24.64,24.64,0,0,0,289-263.44v-77.91A24.64,24.64,0,0,0,264.38-366Z" transform="translate(-163.34 366.9)" fill="url(#Безымянный_градиент_114)"/>
-    <path id="IconBackgroundMesh-3" data-name="IconBackgroundMesh" d="M188.91-366a24.64,24.64,0,0,0-24.62,24.65v77.91a24.64,24.64,0,0,0,24.62,24.65h75.47A24.64,24.64,0,0,0,289-263.44v-77.91A24.64,24.64,0,0,0,264.38-366Z" transform="translate(-163.34 366.9)" fill="url(#Безымянный_градиент_14)"/>
-    <path id="IconBackgroundMesh-4" data-name="IconBackgroundMesh" d="M264.53-365.9A24.46,24.46,0,0,1,289-341.47v78.15a24.45,24.45,0,0,1-24.43,24.42H188.76a24.44,24.44,0,0,1-24.42-24.42v-78.15a24.45,24.45,0,0,1,24.42-24.43h75.77m0-1H188.76a25.43,25.43,0,0,0-25.42,25.43v78.15a25.42,25.42,0,0,0,25.42,25.42h75.77A25.43,25.43,0,0,0,290-263.32v-78.15a25.44,25.44,0,0,0-25.43-25.43Z" transform="translate(-163.34 366.9)" fill="url(#Безымянный_градиент_59)"/>
-    <path id="IconBackgroundMesh-5" data-name="IconBackgroundMesh" d="M264.38-365A23.66,23.66,0,0,1,288-341.35v77.91a23.66,23.66,0,0,1-23.62,23.65H188.91a23.66,23.66,0,0,1-23.62-23.65v-77.91A23.66,23.66,0,0,1,188.91-365h75.47m0-1H188.91a24.64,24.64,0,0,0-24.62,24.65v77.91a24.64,24.64,0,0,0,24.62,24.65h75.47A24.64,24.64,0,0,0,289-263.44v-77.91A24.64,24.64,0,0,0,264.38-366Z" transform="translate(-163.34 366.9)" fill="url(#Безымянный_градиент_48)"/>
+    <g id="IconBackgroundMesh-2" opacity="0.4">
+      <path d="M190.09-365.91a24.63,24.63,0,0,0-24.62,24.65v77.91a24.64,24.64,0,0,0,24.62,24.65h75.47a24.65,24.65,0,0,0,24.62-24.65v-77.91a24.64,24.64,0,0,0-24.62-24.65Z" transform="translate(-163.34 366.9)" fill="url(#Безымянный_градиент_2)"/>
+    </g>
+    <path id="IconBackgroundMesh-2-2" data-name="IconBackgroundMesh" d="M188.91-366a24.64,24.64,0,0,0-24.62,24.65v77.91a24.64,24.64,0,0,0,24.62,24.65h75.47A24.64,24.64,0,0,0,289-263.44v-77.91A24.64,24.64,0,0,0,264.38-366Z" transform="translate(-163.34 366.9)" fill="url(#Безымянный_градиент_14)"/>
+    <path id="IconBackgroundMesh-3" data-name="IconBackgroundMesh" d="M264.53-365.9A24.46,24.46,0,0,1,289-341.47v78.15a24.45,24.45,0,0,1-24.43,24.42H188.76a24.44,24.44,0,0,1-24.42-24.42v-78.15a24.45,24.45,0,0,1,24.42-24.43h75.77m0-1H188.76a25.43,25.43,0,0,0-25.42,25.43v78.15a25.42,25.42,0,0,0,25.42,25.42h75.77A25.43,25.43,0,0,0,290-263.32v-78.15a25.44,25.44,0,0,0-25.43-25.43Z" transform="translate(-163.34 366.9)" fill="url(#Безымянный_градиент_59)"/>
+    <path id="IconBackgroundMesh-4" data-name="IconBackgroundMesh" d="M264.38-365A23.66,23.66,0,0,1,288-341.35v77.91a23.66,23.66,0,0,1-23.62,23.65H188.91a23.66,23.66,0,0,1-23.62-23.65v-77.91A23.66,23.66,0,0,1,188.91-365h75.47m0-1H188.91a24.64,24.64,0,0,0-24.62,24.65v77.91a24.64,24.64,0,0,0,24.62,24.65h75.47A24.64,24.64,0,0,0,289-263.44v-77.91A24.64,24.64,0,0,0,264.38-366Z" transform="translate(-163.34 366.9)" fill="url(#Безымянный_градиент_48)"/>
   </g>
-  <g>
-    <rect x="27.17" y="28.36" width="72.28" height="72.28" rx="36.14" fill="#68217a"/>
+  <g id="EntityFrameworkCore">
+    <rect x="27.17" y="28.36" width="72.28" height="72.28" rx="36.14" fill="#68217a" opacity="0.5"/>
     <path d="M252.2-276.84a36,36,0,0,1-25.55,10.58,36.14,36.14,0,0,1-36.14-36.14,36,36,0,0,1,10.58-25.55Z" transform="translate(-163.34 366.9)" fill="#fff" opacity="0.1"/>
     <g>
       <g>
