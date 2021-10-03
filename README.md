@@ -58,18 +58,8 @@
       <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zodt&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34"  alt="zodt"/>
     </a>
     <a href="https://github.com/zodt">
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=zodt
-&show_icons=true
-&line_height=20
-&count_private=true
-&title_color=ffffff
-&text_color=c9cacc
-&icon_color=4AB097
-&bg_color=1A2B34
-&include_all_commits=true
-&show_icons=true
-&show_owner=true" 
-alt="Braydon's GitHub Stats" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=zodt&show_icons=true&line_height=20&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34&include_all_commits=true&show_icons=true&show_owner=true" 
+alt="My GitHub Stats" />
     </a>
 </div>  
 <h2>Connect with me</h2>
