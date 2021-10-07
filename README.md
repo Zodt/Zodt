@@ -17,37 +17,75 @@
     <tr>
         <td width="25%">
             <div align="center">
-                <img style="margin: 10px;height: 50px;" src="./Assets/SoftwareIcons/IDE/JetbrainsRider.svg" alt="Jetbrains Rider"/>
-                <img style="margin: 10px;height: 50px;" src="./Assets/SoftwareIcons/IDE/VisualStudio.svg" alt="Visual Studio"/>
-                <img style="margin: 10px;height: 50px;" src="./Assets/SoftwareIcons/IDE/VisualStudioCode.svg" alt="Visual Studio Code"/>
-                <img style="margin: 10px;height: 50px;" src="./Assets/SoftwareIcons/IDE/JetbrainsPyCharm.svg" alt="Jetbrains PyCharm"/>
-                <img style="margin: 10px;height: 50px;" src="./Assets/SoftwareIcons/IDE/AzureDataStudio.svg" alt="Azure Data Studio"/>
+                <a href="https://www.jetbrains.com/rider/"> 
+                    <img style="margin: 10px;height: 50px;" src="./Assets/SoftwareIcons/IDE/JetbrainsRider.svg" alt="Jetbrains Rider"/>
+                </a>
+                <a href="https://visualstudio.microsoft.com/vs/"> 
+                    <img style="margin: 10px;height: 50px;" src="./Assets/SoftwareIcons/IDE/VisualStudio.svg" alt="Visual Studio"/>
+                </a>
+                <a href="https://code.visualstudio.com/?wt.mc_id=DX_841432"> 
+                    <img style="margin: 10px;height: 50px;" src="./Assets/SoftwareIcons/IDE/VisualStudioCode.svg" alt="Visual Studio Code"/>
+                </a>
+                <a href="https://www.jetbrains.com/PyCharm/"> 
+                    <img style="margin: 10px;height: 50px;" src="./Assets/SoftwareIcons/IDE/JetbrainsPyCharm.svg" alt="Jetbrains PyCharm"/>
+                </a>
+                <a href="https://docs.microsoft.com/en-us/sql/azure-data-studio/what-is-azure-data-studio?view=sql-server-ver15"> 
+                    <img style="margin: 10px;height: 50px;" src="./Assets/SoftwareIcons/IDE/AzureDataStudio.svg" alt="Azure Data Studio"/>
+                </a>
             </div>
         </td>
         <td width="25%">
             <div align="center">
-                <img style="margin: 10px;height: 50px;" src="./Assets/Frontend/HTML5.svg" alt="HTML5" />  
-                <img style="margin: 10px;height: 50px;" src="./Assets/Frontend/XAML.svg" alt="XAML" />  
-                <img style="margin: 10px;height: 50px;" src="./Assets/SoftwareIcons/Art/AdobeIllustrator.svg" alt="Adobe Illustrator"/>
-                <img style="margin: 10px;height: 50px;" src="./Assets/SoftwareIcons/Art/AdobePhotoshop.svg" alt="Adobe Photoshop"/> 
+                <a href="https://html.com/html5/"> 
+                    <img style="margin: 10px;height: 50px;" src="./Assets/Frontend/HTML5.svg" alt="HTML5" />  
+                </a>
+                <a href="https://docs.microsoft.com/en-us/dotnet/desktop/wpf/xaml/?view=netdesktop-5.0&viewFallbackFrom=netdesktop-5.0"> 
+                    <img style="margin: 10px;height: 50px;" src="./Assets/Frontend/XAML.svg" alt="XAML" />  
+                </a>
+                <a href="https://www.adobe.com/products/illustrator.html"> 
+                    <img style="margin: 10px;height: 50px;" src="./Assets/SoftwareIcons/Art/AdobeIllustrator.svg" alt="Adobe Illustrator"/>
+                </a>
+                <a href="https://www.adobe.com/products/photoshop.html"> 
+                    <img style="margin: 10px;height: 50px;" src="./Assets/SoftwareIcons/Art/AdobePhotoshop.svg" alt="Adobe Photoshop"/> 
+                </a>
             </div>
         </td>
         <td width="25%">
             <div align="center">
-                <img style="margin: 10px;height: 50px;" src="./Assets/ProgrammingLanguages/CSharp.svg" alt="C#"/> 
-                <img style="margin: 10px;height: 50px;" src="./Assets/Backend/DotNETCore.svg" alt=".Net Core" />  
-                <img style="margin: 10px;height: 50px;" src="./Assets/Backend/EntityFrameworkCore.svg" alt="EntityFrameworkCore" />  
-                <img style="margin: 10px;height: 50px;" src="./Assets/Databases/MSSQL.svg" alt="Microsoft SQL Server"/>
-                <img style="margin: 10px;height: 50px;" src="./Assets/Databases/MongoDb.svg" alt="MongoDb"/> 
-                <img style="margin: 10px;height: 50px;" src="./Assets/ProgrammingLanguages/Python.svg" alt="Python"/>
+                <a href="https://dotnet.microsoft.com/languages/csharp"> 
+                    <img style="margin: 10px;height: 50px;" src="./Assets/ProgrammingLanguages/CSharp.svg" alt="C#"/> 
+                </a>
+                <a href="https://dotnet.microsoft.com/"> 
+                    <img style="margin: 10px;height: 50px;" src="./Assets/Backend/DotNETCore.svg" alt=".Net Core" />  
+                </a>
+                <a href="https://docs.microsoft.com/en-us/ef/core/"> 
+                    <img style="margin: 10px;height: 50px;" src="./Assets/Backend/EntityFrameworkCore.svg" alt="EntityFrameworkCore" />  
+                </a>
+                <a href="https://www.microsoft.com/en-us/sql-server"> 
+                    <img style="margin: 10px;height: 50px;" src="./Assets/Databases/MSSQL.svg" alt="Microsoft SQL Server"/>
+                </a>
+                <a href="https://www.mongodb.com/"> 
+                    <img style="margin: 10px;height: 50px;" src="./Assets/Databases/MongoDb.svg" alt="MongoDb"/> 
+                </a>
+                <a href="https://www.python.org/"> 
+                    <img style="margin: 10px;height: 50px;" src="./Assets/ProgrammingLanguages/Python.svg" alt="Python"/>
+                </a>
             </div>
         </td>
         <td width="25%">
             <div align="center">
-                <img style="margin: 10px;height: 50px;" src="./Assets/DevOps/Git.svg" alt="Git" />  
-                <img style="margin: 10px;height: 50px;" src="./Assets/DevOps/GitHubActions.svg" alt="GitHub Actions" />  
-                <img style="margin: 10px;height: 50px;" src="./Assets/DevOps/Ubuntu.svg" alt="Ubuntu" />  
-                <img style="margin: 10px;height: 50px;" src="./Assets/DevOps/Bash.svg" alt="Bash" />  
+                <a href="https://git-scm.com/"> 
+                    <img style="margin: 10px;height: 50px;" src="./Assets/DevOps/Git.svg" alt="Git" />  
+                </a>
+                <a href="https://github.com/features/actions"> 
+                    <img style="margin: 10px;height: 50px;" src="./Assets/DevOps/GitHubActions.svg" alt="GitHub Actions" />  
+                </a>
+                <a href="https://ubuntu.com/"> 
+                    <img style="margin: 10px;height: 50px;" src="./Assets/DevOps/Ubuntu.svg" alt="Ubuntu" />  
+                </a>
+                <a href="https://www.gnu.org/software/bash/"> 
+                    <img style="margin: 10px;height: 50px;" src="./Assets/DevOps/Bash.svg" alt="Bash" />  
+                </a>
             </div>
         </td>
     </tr>
