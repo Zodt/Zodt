@@ -104,7 +104,7 @@ Actively contributing to different developer tools in my spare time.
   <summary><b>GitHub Stats</b></summary>
     <div align="center">
         <a href="https://github.com/zodt">
-          <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zodt&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34"  alt="zodt"/>
+          <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zodt&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" alt="zodt"/>
         </a>
         <a href="https://github.com/zodt">
           <img align="center" src="https://github-readme-stats.vercel.app/api?username=zodt&show_icons=true&line_height=20&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34&include_all_commits=true&show_icons=true&show_owner=true" 
@@ -115,10 +115,7 @@ Actively contributing to different developer tools in my spare time.
 <details>
     <summary><b>Connect with me</b></summary>
     <div align="center">
-        <a href="https://github.com/zodt" target="_blank">
-            <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-        </a>
-            <a href="https://t.me/ZodtOne" target="_blank">
+        <a href="https://t.me/ZodtOne" target="_blank">
             <img src=https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white alt=telegram style="margin-bottom: 5px;" />
         </a>
         <a href="https://instagram.com/R_3pV" target="_blank">
