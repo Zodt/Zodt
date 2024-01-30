@@ -121,12 +121,6 @@ alt="My GitHub Stats" />
       <a href="https://t.me/ZodtOne" target="_blank">
             <img src=https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white alt=telegram style="margin-bottom: 5px;" />
         </a>
-        <a href="https://instagram.com/R_3pV" target="_blank">
-            <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-        </a>
-        <a href="https://twitter.com/R_3pV" target="_blank">
-            <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-        </a>
         <a href="https://www.behance.net/vorontsovr026d" target="_blank">
             <img src=https://img.shields.io/badge/behance-%23191919.svg?&style=for-the-badge&logo=behance&logoColor=white alt=behance style="margin-bottom: 5px;" />
         </a>
